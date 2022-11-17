@@ -1,0 +1,1 @@
+# Smart contract for N3T Decentralized raffles
